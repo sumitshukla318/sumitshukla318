@@ -4,7 +4,9 @@
 
 
 🌱 I’m currently learning [Spring]
+
 💬 Ask me about [Java, React,Django]
+
 📫 How to reach me [sumitshukla.jbg@gmail.com]
 
 ### Connect with me:
