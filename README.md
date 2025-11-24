@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a href="www.linkedin.com/in/sumit-shukla-14164b190" target="_blank">
+<a href="www.linkedin.com/in/sumit-shukla-14164b190/" target="_blank">
   <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
 </a>
 
