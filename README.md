@@ -11,8 +11,9 @@
 
 ### Connect with me:
 
-<img align="center" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />
-<a href="www.linkedin.com/in/sumit-shukla-14164b190" target="_blank">LinkedIn</a>
+<a href="www.linkedin.com/in/sumit-shukla-14164b190" target="_blank">
+  <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+</a>
 
 ### Languages and Tools:
 
