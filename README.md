@@ -13,4 +13,4 @@
 
 ### Languages and Tools:
 
-[Python](https://www.python.org) [Jupyter](https://jupyter.org) [Pandas](https://pandas.pydata.org) [NumPy](https://numpy.org) [Matplotlib](https://matplotlib.org) [SQL](https://www.w3schools.com/sql/) [Git](https://git-scm.com) [Docker](https://www.docker.com) [Add more based on your skills, e.g., TensorFlow, Scikit-learn]
+Java, Spring Boot, React, Angular, HTML, CSS, JavaScript, Node.js, Express, MySQL, MongoDB, Git, Maven, Docker, Bootstrap
