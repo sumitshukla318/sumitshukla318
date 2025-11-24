@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[LinkedIn](www.linkedin.com/in/sumit-shukla-14164b190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sumit-shukla-14164b190)
 
 ### Languages and Tools:
 
